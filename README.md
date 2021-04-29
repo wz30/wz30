@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wei Zhang
-- 👀 I’m interested in software programming and system program.
+- 👀 I’m interested in software programming and system programming.
 - 🌱 I’m currently learning system knowledge such as operating system, linux kernel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
